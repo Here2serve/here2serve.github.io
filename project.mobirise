@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Here 2 Serve",
-    "currentPage": "httpswww.here2serve.co.za.html",
+    "currentPage": ".here2serve.co.za.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 168,
     "versionPublish": "4.7.1",
@@ -44,7 +44,7 @@
     "google-analytics": ""
   },
   "pages": {
-    "httpswww.here2serve.co.za.html": {
+    ".here2serve.co.za.html": {
       "settings": {
         "main": true,
         "title": "Home",
