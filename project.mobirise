@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Here 2 Serve",
-    "currentPage": ".here2serve.co.za.html",
+    "currentPage": "www.here2serve.co.za.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 168,
     "versionPublish": "4.7.1",
@@ -37,14 +37,14 @@
         "#333333"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo3-128x78.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": ""
   },
   "pages": {
-    ".here2serve.co.za.html": {
+    "www.here2serve.co.za.html": {
       "settings": {
         "main": true,
         "title": "Home",
